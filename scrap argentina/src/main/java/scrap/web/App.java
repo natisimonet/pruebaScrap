@@ -79,7 +79,7 @@ public class App {
 					
 				} else {
 					System.out.println("no va");
-					System.out.println("Aguante");
+					System.out.println("sigo probando");
 				}
 					
 			}
