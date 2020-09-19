@@ -61,7 +61,7 @@ public class App {
 				WebElement element = (new WebDriverWait(driver, 20)).until(ExpectedConditions
 						.visibilityOfElementLocated((By.className("text_text__1DYNl"))));
 			} catch (TimeoutException d) {
-				d.printStackTrace();
+				d.printStackTrace(); //shjsjhs
 				System.out.println("TimeOut");
 			} catch (NoSuchElementException o) {
 				System.out.println("Except: no encontró el element");
